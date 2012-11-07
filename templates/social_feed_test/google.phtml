@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>      
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="<?php echo SKIN_URL ?>/js/feedManager.js"></script>
+        <link rel="stylesheet" href="<?php echo SKIN_URL ?>/jquery-ui-1.8.21.antivihrus/css/antivihrus/jquery-ui-1.8.21.custom.css" />
+        <script>
+            
+            jQuery(document).ready(function() {
+                jQuery('#social-tabs').tabs();
+                jQuery('#googleResults').feedManager('getData', {source: 'google', feedSettings: {'apiKey': '<?php echo GOOGLE_API_KEY ?>', 'searchTerm':'Quantum Wave Form'}});
+            });
+      
+      
+      
+        </script>
+        <style type="text/css">
+            body { font-size: 0.8em; background: black; }
+            #social-tabs {
+                width: 350px;
+            }
+
+            .social-tab {
+                display: block;
+                max-height: 230px;
+                overflow: auto;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="antivihrusUi">
+            <div id="social-tabs">
+                <ul>
+                    <li><a href="#tab-google">Google</a></li>
+                    <li><a href="#tab-twitter">Twitter</a></li>
+                    <li><a href="#tab-facebook">Facebook</a></li>
+                </ul>
+                <div id="tab-google" class="social-tab">
+                    <ul id="googleResults"><li>GOOGLE</li></ul>
+                </div>
+                <div id="tab-twitter" class="social-tab">
+                    <ul id="twitterResults"><li>TWITTER</li></ul>
+                </div>
+                <div id="tab-facebook" class="social-tab">
+                    <ul id="facebookResults"><li>FACEBOOK</li></ul>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

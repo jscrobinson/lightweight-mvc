@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<site>
+    <content>
+        <item id="1">
+            <header><![CDATA[El VIH/SIDA<br/>sigue siendo]]></header>            
+            <text><![CDATA[la principal<br/>infección<br/>mortal del<br/>mundo]]></text>
+            <more><![CDATA[<p>Ghana ha hecho muchos avances en la prevención del VIH/Sida. La prevalencia nacional ha disminuido de un 3,6% en 2003 a un 1,8 en 2009, por debajo de la media de los países del oeste de África.</p><p>UNICEF participa en la revisión de la estrategia nacional de Prevención para la Transmisión de Madre a Hijo y la nueva guía para el diagnóstico temprano del sida pediátrico.</p><p>© UNICEF/NYHQ2008-0866/Asselin</p>]]></more>
+            <image></image>
+        </item>
+        <item id="2">
+            <header><![CDATA[EN 2010<br/>el número]]></header>            
+            <text><![CDATA[de personas<br/>con VIH/SIDA<br/>era de<br/>34 millones]]></text>
+            <more><![CDATA[<p>Zambia, una mujer VIH positiva se hace un test en un centro de salud. Está asistiendo al programa de prevención de la transmisión de VIH/SIDA en Zambia apoyado por UNICEF.</p><p>© UNICEF/NYHQ2009-2343/Nesbitt</p>]]></more>
+            <image></image>
+        </item>
+        <item id="3">
+            <header><![CDATA[3,4 millones<br/>de niños]]></header>            
+            <text><![CDATA[menores de<br/>15 años<br/>viven con<br/>VIH/SIDA]]></text>
+            <more><![CDATA[<p>En 2005, Ucrania era uno de los países con mayor crecimiento de infecciones de VIH /SIDA en Europa. En 2009 la tasa de prevalencia de VIH/SIDA entre los adultos de entre 15 y 49 años era del 1,1%. UNICEF apoya centros para ofrecer a los jóvenes test voluntarios de VIH/SIDA y acompañamiento, financia programas de prevención para niños y campañas de sensibilización  en las escuelas y para toda la población.</p><p>© UNICEF/NYHQ2005-1826/Pirozzi</p>]]></more>
+            <image></image>
+        </item>
+        <item id="4">
+            <header><![CDATA[Sin<br/>tratamiento]]></header>            
+            <text><![CDATA[el 50% de<br/>los bebés<br/>que nacen<br/>con VIH/SIDA<br/>morirán a la<br/>edad de 2 años]]></text>
+            <more><![CDATA[<p>En Zambia, las clínicas proporcionan programas de prevención para impedir la transmisión del VIH/SIDA de madre a hijo. Los niños, hijos de madres VIH positivas que reciben antibióticos y medicamentos antirretrovirales en las primeras 12 semanas de vida, tienen un 75% de posibilidades más de sobrevivir a la enfermedad.</p><p>Acceder a estos servicios y tratamientos es muy difícil en las áreas rurales, donde la pobreza es elevada, por eso UNICEF está apoyando la extensión de estos servicios a las zonas rurales.</p><p>© UNICEF/NYHQ2009-1961/Nesbitt</p>]]></more>
+            <image></image>
+        </item>
+        <item id="5">
+            <header><![CDATA[Todos<br/>los días]]></header>            
+            <text><![CDATA[aproximadamente<br/>5.000 personas<br/>mueren a causa<br/>del vih/sida]]></text>
+            <more><![CDATA[<p>Uganda ha tenido un gran éxito en la reducción de la prevalencia del VIH desde el 30% en 1990 al 6,5% en 2009. A pesar de ello hay millones de niños huérfanos por causa del SIDA y el problema persiste, especialmente en zonas de conflictos donde la población afectada por el VIH/SIDA llega a ser del 9%.</p><p>UNICEF y sus aliados proporcionan ayuda en temas de salud, agua y saneamiento, educación y protección de los niños.</p><p>© UNICEF/NYHQ2005-1988/Noorani</p>]]></more>
+            <image></image>
+        </item>
+        
+        <!-- unicef -->
+        
+        <item id="6">
+            <header><![CDATA[Acción de UNICEF<br/>y sus aliados]]></header>
+            <text><![CDATA[<ul><li>El tratamiento antiretroviral para prevenir la transmisión del VIH/SIDA de madre a hijo <b>llega actualmente al 53% de las madres embarazadas que viven con la enfermedad</b>.</li><li>En 2010, UNICEF invirtió en programas relacionados con VIH/SIDA  188 millones de dólares.</li><li>La acción de UNICEF ha logrado que <b>el acceso a tratamiento contra el VIH/SIDA mejore de forma drástica</b> en los últimos años. La cifra de niños que está recibiendo antirretrovirales ha pasado de 75.000 en el año 2005 a 420.000 en 2010.</li><li>UNICEF encabeza las acciones para instaurar Programas Nacionales de Protección contra el VIH/SIDA para los niños.</li></ul>]]></text>
+            <button><![CDATA[El trabajo de UNICEF]]></button>
+        </item>     
+        <item id="7">
+            <header><![CDATA[El trabajo de UNICEF para<br/>la infancia afectada por<br/>el VIH/SIDA]]></header>
+            <text><![CDATA[<p>La intervención de UNICEF se centra en cuatro esferas principales, denominadas las "Cuatro P":</p><ol><li>Prevenir la <b>transmisión del VIH de la madre al hijo</b></li><li>Proporcionar un <b>tratamiento pediátrico</b> a los niños y niñas</li><li><b>Prevenir la infección</b> entre los adolescentes y los jóvenes</li><li><b>Proteger y apoyar</b> a los niños y niñas afectados por el VIH/SIDA</li></ol><p>Trabajamos en  la campaña global <b>Eliminar la Transmisión Madre-Hijo para 2015</b>. UNICEF, junto a la Organización Mundial de la Salud (OMS) y otros aliados, lanza el <b>Kit Madre-Hijo para la Prevención del VIH</b>, esto es, un pack innovador de medicamentos antirretrovirales y antibióticos para evitar la transmisión vertical.</p><p>Además, se llevan a cabo otras acciones como el apoyo <b>a los niños afectados por el SIDA en situaciones de emergencia</b>.</p>]]></text>
+            <button><![CDATA[Acción de UNICEF y sus aliados]]></button>            
+        </item>
+         
+        
+    </content>
+<!--    
+
+The carousel and unicef items below are used to categorize the content items from above. To add an item to the category just create an <item id="{CONTENT_ID}"/> node (content ID should refer to an item node in the content section
+
+-->
+    <carousel>
+        <item id="1" moreposition="500,12"/>
+        <item id="2"/>
+        <item id="3"/>
+        <item id="4"/>
+        <item id="5"/>
+    </carousel>
+    <unicef>
+        <item id="6"/>
+        <item id="7"/>
+    </unicef>
+</site>
