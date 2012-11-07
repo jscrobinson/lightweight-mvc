@@ -8,6 +8,8 @@ class Frontend_Controller_Action_Index extends Frontend_Controller_Action_Abstra
 		
 //		$this->getTemplate()->addScript('UNIQUEID',  'relative path');
 //		$this->getTemplate()->addLink('UNIQUEID',  'relative path');
-
+		
+		
+		
     }
 }

@@ -1,9 +1,9 @@
 <?php
-require_once VENDOR_PATH . DIRECTORY_SEPARATOR . 'RedBean' . DIRECTORY_SEPARATOR . 'rb.php';
 class Spatula_Db_Init
 {
 	private static $_instance;
 	protected $_initialized = false;
+	protected $_modelFormatter;
 	
 	/**
 	 * 
@@ -30,7 +30,7 @@ class Spatula_Db_Init
 	protected function _init()
 	{
 		$dsn = sprintf('mysql:dbname=%s;host=%s', DB_NAME, DB_HOST);
-		R::setup($dsn, DB_USER, DB_PASS);
-	}
-	
+		
+		
+	}	
 }
