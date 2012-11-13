@@ -26,7 +26,7 @@ switch (APPLICATION_ENV)
 switch (DB_TYPE)
 {
 	case 'mysql':
-		define('DSN', sprintf('%1$s://%2$s:%3$s@tcp(%4$s:%5$s)/%6$s', DB_TYPE, DB_USER, DB_PASS, DB_HOST, DB_PORT, DB_NAME));
+		define('DSN', sprintf('%1$s:dbname=%6$s;host=%4$s;port=%5$s', DB_TYPE, DB_USER, DB_PASS, DB_HOST, DB_PORT, DB_NAME));
 		break;
 	case 'sqlite':
 		define('DSN', sprintf('sqlite:///%1$s', DB_PATH));
